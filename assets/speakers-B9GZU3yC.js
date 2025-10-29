@@ -1,4 +1,4 @@
-import"./main-CXKlvU1R.js";const d=`<div
+import"./main-C4gkBsIl.js";const d=`<div
   class="bg-white rounded-lg shadow-lg hover:scale-105 transition-transform duration-300 overflow-hidden speaker-accordion scroll-mt-15 scroll-mb-5"
 >
   <button
